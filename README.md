@@ -31,10 +31,21 @@ Built on the rock-solid **gruvbox** foundation:
 
 ---
 
-## 🖼️ Screenshots *(Optional)*  
-_Add screenshots here to showcase theme in action._  
-Example:
-![Focus Nova Screenshot](./preview.png)
+## 🖼️ Screenshots 
+
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/4e27cbfa-52ce-4456-8116-254223ac43f4" width="400" height="auto"></td>
+    <td><img src="https://github.com/user-attachments/assets/85a70947-759c-4cce-aacf-d40f441a713e" width="400" height="auto"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/9bf2b536-c746-4310-b764-68f8f93af26d" width="400" height="auto"></td>
+    <td><img src="https://github.com/user-attachments/assets/e1500c51-ade1-407d-b287-7fc893c7a6d8" width="400" height="auto"></td>
+  </tr>
+</table>
+
+
 
 ---
 
